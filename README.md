@@ -28,4 +28,4 @@ Realizar periódicamente ``git pull`` para actualizar los cambios de su reposito
 
 Pueden utilizar binder para poder ejecutar las clases sin realizan instalación alguna en sus equipos y ejecutando todo en un entorno en la nube, siguiendo el siguiente enlace:
 
-https://mybinder.org/v2/gh/fvillena/mlb/master
+https://mybinder.org/v2/gh/fvillena/mlfa/master
