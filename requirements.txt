@@ -5,7 +5,3 @@ matplotlib
 scikit-learn
 xgboost
 imbalanced-learn
-gensim
-fbprophet
-pymc3
-torch
