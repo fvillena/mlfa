@@ -1,6 +1,6 @@
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/fvillena/mlfa/master)
 
-# Machine Learning: Foundaments and Applications
+# Machine Learning: Fundamentals and Applications
 
 Repositorio que contiene actividades de práctica para las clases del curso Machine Learning: Foundaments and Applications.
 
